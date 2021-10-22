@@ -4,6 +4,7 @@ body {
 
 /*  ----- header ------*/
 header h1 {
+  background-color: #ffe5d9;
   text-align: center;
   color: #006d77;
   font-family: 'Gill Sans';
